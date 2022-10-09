@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf2a2d30-4328-4eab-a138-04b6db3e7311" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "G:/My Drive/Higher Study/Personal website/masfiqur-rahaman.github.io",
+    "settings.editor.selected.configurable": "project.propDebugger",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -55,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665216476174</updated>
       <workItem from="1665216479495" duration="794000" />
-      <workItem from="1665254584329" duration="4025000" />
+      <workItem from="1665254584329" duration="5165000" />
     </task>
     <servers />
   </component>
