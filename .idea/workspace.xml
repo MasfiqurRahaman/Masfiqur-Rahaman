@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2a2d30-4328-4eab-a138-04b6db3e7311" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app-08fa87389bcbec013386.js" beforeDir="false" afterPath="$PROJECT_DIR$/app-08fa87389bcbec013386.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/component---src-pages-index-js-d69cf31f1d8f94edc3eb.js" beforeDir="false" afterPath="$PROJECT_DIR$/component---src-pages-index-js-d69cf31f1d8f94edc3eb.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/e50e9c162871c1d91fba5ce567a5656e16dc6783-484ade3027644a39af38.js" beforeDir="false" afterPath="$PROJECT_DIR$/e50e9c162871c1d91fba5ce567a5656e16dc6783-484ade3027644a39af38.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/framework-69f9573f685b242367c3.js" beforeDir="false" afterPath="$PROJECT_DIR$/framework-69f9573f685b242367c3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polyfill-17f15e83474a5fe2de19.js" beforeDir="false" afterPath="$PROJECT_DIR$/polyfill-17f15e83474a5fe2de19.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack-runtime-f50fbf3be5e53b70dd77.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack-runtime-f50fbf3be5e53b70dd77.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/CV___Masfiqur_Rahaman.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/CV - Masfiqur Rahaman.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +31,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/My Drive/Higher Study/Personal website/masfiqur-rahaman.github.io&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propDebugger&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-  }
-}</component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\My Drive\Higher Study\Personal website\masfiqur-rahaman.github.io" />
     </key>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="bf2a2d30-4328-4eab-a138-04b6db3e7311" name="Changes" comment="" />
@@ -63,18 +66,21 @@
       <workItem from="1665216479495" duration="794000" />
       <workItem from="1665254584329" duration="7877000" />
       <workItem from="1665289413807" duration="463000" />
+      <workItem from="1667766791368" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
