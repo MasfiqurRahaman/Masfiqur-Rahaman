@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf2a2d30-4328-4eab-a138-04b6db3e7311" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/files/CV___Masfiqur_Rahaman.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/files/CV - Masfiqur Rahaman.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
       <workItem from="1665289413807" duration="463000" />
       <workItem from="1667766791368" duration="30000" />
       <workItem from="1667927464797" duration="7000" />
+      <workItem from="1668859354527" duration="151000" />
     </task>
     <servers />
   </component>
@@ -86,5 +86,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1668859427533">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1668859427533" />
   </component>
 </project>
